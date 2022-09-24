@@ -1,6 +1,6 @@
 ﻿Console.Clear();
 
-/* int[] array = {1, 12, 31, 4, 18, 16, 17, 18};
+int[] array = {1, 12, 31, 4, 18, 16, 17, 18};
 
 int n = array.Length;
 int find = 18;
@@ -16,6 +16,7 @@ while (index < n)
     }
     //index = index + 1
     index++;
-} */
+}
 
-int[] array = new int[10]; // создай новый массив, в котором будет 10 элементов
+
+
